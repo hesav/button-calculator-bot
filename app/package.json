@@ -1,7 +1,7 @@
 {
-  "name": "wasty",
+  "name": "buttoncalculator",
   "version": "0.0.1",
-  "description": "waq xd",
+  "description": "buttoncalculator",
   "main": "wasty.js",
   "scripts": {
     "start": "node wasty.js"
