@@ -2,9 +2,9 @@
   "name": "buttoncalculator",
   "version": "0.0.1",
   "description": "buttoncalculator",
-  "main": "wasty.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node wasty.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "express": "^4.17.1",
