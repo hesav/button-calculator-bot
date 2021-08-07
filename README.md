@@ -1,4 +1,4 @@
-#Button Calculator Bot Açık Kaynak Kodu 
+#button Calculator Bot Açık Kaynak Kodu 
 👀 Hey! Dostum Burayı İyi Oku
 
 ➡ Bunu Kullanıp Kendi Botunuzmuş Gibi Gösterirseniz  I'll take all their money in court, I'll finish it, don't do it 
